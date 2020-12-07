@@ -1,4 +1,4 @@
-## NAMA BOT
+## Azumi
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -9,23 +9,23 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 ## CARA INSTALL
 # TERMUX
-```bash
-> download termux
+
+> unduh termux
 > buka
 > pkg install git
 > pkg install ffmpeg
-> pkg install nodejs
+> pkg instal nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/reuzsc
-> cd reuzsc
+> git clone https://github.com/IQBAL-GANS/Azumi
+> cd Azumi
 > bash install.sh
 > node index.js
 ```
 
 
 # FITUR
-
-| KEADAAN       |               FITUR     |
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </ s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s> Azumi
+| KEADAAN | FITUR |
 | :-----------: | :--------------------------------:  |
 |       ✅       |    PANTUN                         |
 |       ✅       | ANIMEPICT                         |
